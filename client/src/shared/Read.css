@@ -1,0 +1,28 @@
+.container{
+  padding-top: 70px;
+}
+.text-center{
+  padding-top:10px;
+}
+.card-link{
+  padding: 2rem;
+  font-size: 20px;
+  text-decoration: none;
+  margin-bottom: 2px;
+  cursor: pointer;
+  font-weight: 500;
+}
+.card{
+  border-style: solid;
+  display: flex;
+  width: 250px;
+  height: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+.col-3{
+  padding: 16px;
+  display: inline-block;
+}
